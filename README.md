@@ -85,6 +85,7 @@ For example:
     | salaries     | OK            | ok        |
     +--------------+---------------+-----------+
 
+![Employee](https://dev.mysql.com/doc/employee/en/images/employees-schema.png)
 
 ## DISCLAIMER
 
